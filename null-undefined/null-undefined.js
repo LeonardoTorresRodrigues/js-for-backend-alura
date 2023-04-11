@@ -3,7 +3,7 @@
 // null => vazio ou nada
 
 let minhaVar; // undefined
-let varNull = null; // null é criado como objeto
+let varNull = null; // null, porém é criado como objeto
 
 console.log(minhaVar);
 console.log(varNull);
