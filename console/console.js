@@ -5,4 +5,6 @@ console.log("texto");
 console.log(minhaVar);
 
 // tratamento de erro!
-console.error("deu erro!");
+console.log("deu erro no log");
+console.error("deu erro no error");
+console.error(new Error("deu erro no novo error"));
