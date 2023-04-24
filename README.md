@@ -4,3 +4,5 @@
 *Projeto feito para estudos do JavaScript com foco no back-end.*
 
 <a href='https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes'>Link para curso da Alura</a>
+
+> Faça o `fork` do projeto para sua máquina e rode o com `node nome_do_arquivo.js`
